@@ -1,0 +1,157 @@
+[
+  {
+    "handle": "rasbt",
+    "priority": "high",
+    "check_every_hours": 2
+  },
+  {
+    "handle": "omarsar0",
+    "priority": "high",
+    "check_every_hours": 2
+  },
+  {
+    "handle": "_avichawla",
+    "priority": "high",
+    "check_every_hours": 3
+  },
+  {
+    "handle": "neural_avb",
+    "priority": "high",
+    "check_every_hours": 3
+  },
+  {
+    "handle": "ashpreetbedi",
+    "priority": "high",
+    "check_every_hours": 2
+  },
+  {
+    "handle": "ericzakariasson",
+    "priority": "high",
+    "check_every_hours": 3
+  },
+  {
+    "handle": "jefftangx",
+    "priority": "high",
+    "check_every_hours": 3
+  },
+  {
+    "handle": "agent_wrapper",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "akshay_pachaar",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "rohit4verse",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "nothiingf4",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "trq212",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "RLanceMart",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "thdxr",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "Vtrivedy10",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "Pseudo_Sid26",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "mdancho84",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "paulabartabajo_",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "AlexGDimakis",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "LakshyAAgrawal",
+    "priority": "medium",
+    "check_every_hours": 6
+  },
+  {
+    "handle": "pdhsu",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "thomasklbg",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "_vmlops",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "maxmarchione",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "kmeanskaran",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "prajdabre",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "hasantoxr",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "dharmeshh",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "Krishnasagrawal",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "danijarh",
+    "priority": "low",
+    "check_every_hours": 12
+  },
+  {
+    "handle": "Param_eth",
+    "priority": "medium",
+    "check_every_hours": 6
+  }
+]
